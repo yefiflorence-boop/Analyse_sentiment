@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+modele_allocine/
+logs/
+.env    
